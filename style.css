@@ -1,0 +1,70 @@
+body{
+    background-color: #F7DBEC;
+}
+
+#logo{
+    border-radius: 400px;
+  height: 200px;
+  width: 200px;
+
+}
+h1{
+    font-family: Rubik Moonrocks;
+    font-size: 50px;
+}
+h4{
+    color: blueviolet;
+}
+
+#logout
+{
+	font-size: 20px; 
+    float: right;
+    position: bottom ;
+}
+h2{
+    font-family: fantasy;
+    font-weight: bold;
+    color: darkred;
+    font-size: 20px;
+}
+#sweet_corn{
+    width: 20%;
+    background-color: #669a96;
+border-radius: 30%;
+color: white;
+}
+#vanilla{
+    width: 20%;
+    background-color: #669a96;
+border-radius: 30%;
+color: white;
+}
+#rocky{
+    width: 20%;
+    background-color: #669a96;
+border-radius: 30%;
+color: white;
+}
+#blueberry{
+    width: 20%;
+    background-color: #669a96;
+border-radius: 30%;
+color: white;
+}
+#sandwitch{
+    width: 20%;
+    background-color: #669a96;
+border-radius: 30%;
+color: white;
+}
+h5{
+    font-family: Handlee;
+    font-weight: 300;
+    background-color: #fac9c6;
+    font-size: 50px;
+}
+#logout{
+    float: bottom;
+    margin-right: 10px;
+}
